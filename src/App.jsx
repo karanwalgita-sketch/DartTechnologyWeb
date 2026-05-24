@@ -3208,7 +3208,7 @@ const COMPANY = {
   founder: 'Devank Karanwal',
   email: 'devankkaranwal@gmail.com',
   linkedin: 'https://www.linkedin.com/in/devank-karanwal-99b05b120/',
-  whatsapp: 'https://wa.me/919001234567'
+  whatsapp: 'https://wa.me/918769003966'
 };
 
 const SectionHeader = ({ badge, title, subtitle, align = 'left' }) => (
@@ -3493,7 +3493,7 @@ const handleClick = (id) => {
 // ================= HOME / HERO =================
 const HomeSection = () => {
   const stats = [
-    { value: '8+', label: 'Years Experience' },
+    { value: '10+', label: 'Years Experience' },
     { value: '200+', label: 'Projects Built' },
     { value: '15+', label: 'Industries Served' },
     { value: 'Global', label: 'Remote Delivery' }
