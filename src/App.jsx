@@ -3872,6 +3872,39 @@ const WebDevelopmentSections = () => {
       url: "https://www.gymshark.com",
       features: ["Shopping Cart", "Product Filters", "User Accounts"]
     },
+
+    {
+  title: "Four Seasons Hotels & Resorts",
+  description: "Ultra-luxury hospitality and travel experience platform with cinematic premium design",
+  stats: "Worldwide Luxury Destinations",
+  color: "#D4AF37",
+  icon: "🏨",
+  tags: ["Luxury", "Travel", "Hospitality"],
+  url: "https://www.fourseasons.com",
+  features: ["Luxury Booking", "Private Resorts", "Premium Experiences"]
+},
+{
+  title: "Black Tomato Travel",
+  description: "High-end bespoke luxury travel platform with immersive storytelling experience",
+  stats: "Elite Global Travelers",
+  color: "#c9a86a",
+  icon: "✈️",
+  tags: ["Luxury Travel", "Experiences", "Premium UI"],
+  url: "https://www.blacktomato.com",
+  features: ["Custom Trips", "Luxury Tours", "Storytelling Design"]
+},
+{
+  title: "Bhutan Tour",
+  description: "Premium Bhutan travel and cultural exploration booking platform",
+  stats: "Exclusive Bhutan Packages",
+  color: "#e0b973",
+  icon: "🏔️",
+  tags: ["Bhutan", "Tours", "Adventure"],
+  url: "https://travelbhutan.tours",
+  features: ["Tour Packages", "Luxury Stays", "Guided Trips"]
+},
+
+    
     {
       title: "Allbirds",
       description: "Sustainable footwear and apparel e-commerce store",
